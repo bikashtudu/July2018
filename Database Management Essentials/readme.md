@@ -10,7 +10,7 @@ Check the assignment progress at [Grade.pdf](https://github.com/bikashtudu/July2
 | WEEK1 | Module02 | Done | Done | Done  |
 | WEEK2 | Module03 | Done | Submitted | No |
 | WEEK3 | Module04 | Done | Submitted | No |
-| WEEK3 | Module05 | - | - | - |
+| WEEK3 | Module05 | Done | - | - |
 | WEEK4 | Module06 | - | - | - |
 | WEEK4 | Module07 | - | - | - |
 | WEEK5 | Module08 | - | - | - |
