@@ -1,12 +1,14 @@
 Database Management Essentials
 by University of Colorado System
 
+| WEEK | Practice Exercise | Assignment | Peer Reviewed |
+|-------- | -------- | ---------- | ------ |
+| WEEK1 | Done | Done | Done  |
+| WEEK2 | Done | Submitted | No |
+| WEEK3 | - | - | - |
+| WEEK4 | - | - | - |
+| WEEK5 | - | - | - |
+| WEEK6 | - | - | - |
+| WEEK7 | - | - | - |
 
-### WEEK1:
-files in [WEEK1](https://github.com/bikashtudu/July2018/tree/master/Database%20Management%20Essentials/WEEK1)
-![alt text](https://github.com/bikashtudu/July2018/blob/master/Database%20Management%20Essentials/WEEK1/screen_shot.png)
-
-### WEEK2:
-files in [WEEK2](https://github.com/bikashtudu/July2018/tree/master/Database%20Management%20Essentials/WEEK2)
-![alt text](https://github.com/bikashtudu/July2018/blob/master/Database%20Management%20Essentials/WEEK2/screen_shot.png)
 
