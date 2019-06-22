@@ -18,3 +18,4 @@ Check the assignment progress at [Grade.pdf](https://github.com/bikashtudu/July2
 | WEEK6 | Module10 | Done | Submitted | No |
 | WEEK7 | Module11 | Done | Submitted | No |
 
+![ALT TXT](https://github.com/bikashtudu/July2018/blob/master/Database%20Management%20Essentials/grades.png)
