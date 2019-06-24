@@ -1,3 +1,4 @@
 
 *.sqlite
+*.ssms_suo
 *.json
