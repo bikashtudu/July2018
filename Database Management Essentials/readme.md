@@ -2,9 +2,6 @@ Database Management Essentials
 by University of Colorado System
 
 
-
-Check the assignment progress at [Grade.pdf](https://github.com/bikashtudu/July2018/blob/master/Database%20Management%20Essentials/grades.pdf) and ssignment of each week in the respective folder
-
 | WEEK | Module |Practice Exercise | Assignment | Peer Reviewed |
 |-------- | -------- | -------- | ---------- | ------ |
 | WEEK1 | Module02 | Done | Done | Yes  |
@@ -17,5 +14,3 @@ Check the assignment progress at [Grade.pdf](https://github.com/bikashtudu/July2
 | WEEK5 | Module09 | Done | Submitted | No |
 | WEEK6 | Module10 | Done | Submitted | No |
 | WEEK7 | Module11 | Done | Submitted | No |
-
-![ALT TXT](https://github.com/bikashtudu/July2018/blob/master/Database%20Management%20Essentials/grades.png)
